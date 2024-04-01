@@ -40,15 +40,25 @@ By following these steps, you can harness the power of Cloudflare to significant
 [Notable Sites With Cloudflare Cahe]
 
 [authy.com](https://authy.com/) (no leaked data found in several search engine caches)
+
 [coinbase.com](https://coinbase.com/)
+
 [bitcoin.de](https://bitcoin.com/)
+
 [betterment.com](https://betterment.com/)
+
 [prosper.com](https://prosper.com/)
+
 [axabaka.com](https://axabaka.com/)
 
-namecheap.com (no leaked data found in several search engine caches)
-glassdoor.com (no leaked data found in several search engine caches)
-transferwise.com (no leaked data found in several search engine caches
-vultr.com (no leaked data found in several search engine caches)
-fastmail.com (not affected, #2)
-1password.com (not affected)
+[namecheap.com] (no leaked data found in several search engine caches)
+
+[glassdoor.com] (no leaked data found in several search engine caches)
+
+[transferwise.com] (no leaked data found in several search engine caches
+
+[vultr.com] (no leaked data found in several search engine caches)
+
+[fastmail.com] (not affected, #2)
+
+[1password.com] (not affected)
