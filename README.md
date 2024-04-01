@@ -36,3 +36,41 @@ Using Cloudflare to speed up your website can dramatically improve your site's p
 
 By following these steps, you can harness the power of Cloudflare to significantly improve your website’s speed, security, and reliability. Cloudflare's wide array of features can be customized to suit the specific needs of your website, ensuring an optimal experience for your users. As with any complex tool, the key is to regularly review its performance and adjust settings as needed to keep your site running smoothly and efficiently.
 
+
+Notable Sites With Cloudflare Cahe 
+
+authy.com (no leaked data found in several search engine caches)
+coinbase.com
+bitcoin.de
+betterment.com
+prosper.com
+axabaka.com
+patreon.com
+bitpay.com
+news.ycombinator.com
+producthunt.com
+medium.com
+4chan.org
+yelp.com
+okcupid.com
+zendesk.com (Zendesk post and updates | no leaked data found)
+uber.com
+poloniex.com
+localbitcoins.com
+kraken.com
+23andme.com
+curse.com (and some other Curse sites like minecraftforum.net)
+counsyl.com
+tfl.gov.uk
+myaccount.nytimes.com
+technicpack.net
+cloudflare.com
+blockchain.info
+discordapp.com (affected)
+digitalocean.com (no leaked data found in several search engine caches)
+namecheap.com (no leaked data found in several search engine caches)
+glassdoor.com (no leaked data found in several search engine caches)
+transferwise.com (no leaked data found in several search engine caches
+vultr.com (no leaked data found in several search engine caches)
+fastmail.com (not affected, #2)
+1password.com (not affected)
